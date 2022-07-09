@@ -1,0 +1,418 @@
+Hello World
+Tutorial Exercise
+The classical introductory exercise. Just say "Hello, World!"
+
+Icon for exercise called Lucian's Luscious Lasagna
+Lucian's Luscious Lasagna
+Learning Exercise
+Learn about the basics of Clojure by following a lasagna recipe
+
+Icon for exercise called Tracks on Tracks on Tracks
+Tracks on Tracks on Tracks
+Learning Exercise
+Learn about lists by keeping track of the programming languages you want to learn
+
+Icon for exercise called Bird Watcher
+Bird Watcher
+Learning Exercise
+Learn about vectors by counting the birds in your garden
+
+Icon for exercise called Cars, Assemble!
+Cars, Assemble!
+Learning Exercise
+Learn about numbers and conditionals by analyzing the production of an assembly line in a car factory
+
+Icon for exercise called Interest is Interesting
+Interest is Interesting
+Learning Exercise
+Learn about floating-point numbers by calculating interest for savings accounts
+
+Icon for exercise called Annalyn's Infiltration
+Annalyn's Infiltration
+Learning Exercise
+Learn about booleans while helping Annalyn rescue her friend
+
+Icon for exercise called Log Levels
+Log Levels
+Learning Exercise
+Learn about strings by parsing application logs
+
+Icon for exercise called Elyses Destructured Enchantments
+Elyses Destructured Enchantments
+Learning Exercise
+Elyse's magic training continues, teaching you about sequential destructing.
+
+Icon for exercise called Two Fer
+Two Fer
+Easy
+Create a sentence of the form "One for X, one for me."
+
+Icon for exercise called Armstrong Numbers
+Armstrong Numbers
+Easy
+Determine if a number is an Armstrong number
+
+Icon for exercise called Reverse String
+Reverse String
+Easy
+Reverse a string
+
+Icon for exercise called Accumulate
+Accumulate
+Easy
+Implement the `accumulate` operation, which, given a collection and an operation to perform on each element of the collection, returns a new collection containing the result of applying that operation to each element of the input collection.
+
+Icon for exercise called Acronym
+Acronym
+Easy
+Convert a long phrase to its acronym
+
+Icon for exercise called All Your Base
+All Your Base
+Easy
+Convert a number, represented as a sequence of digits in one base, to any other base.
+
+Icon for exercise called Anagram
+Anagram
+Easy
+Given a word and a list of possible anagrams, select the correct sublist.
+
+Icon for exercise called Bob
+Bob
+Easy
+Bob is a lackadaisical teenager. In conversation, his responses are very limited.
+
+Icon for exercise called Collatz Conjecture
+Collatz Conjecture
+Easy
+Calculate the number of steps to reach 1 using the Collatz conjecture
+
+Icon for exercise called Complex Numbers
+Complex Numbers
+Easy
+Implement complex numbers.
+
+Icon for exercise called Etl
+Etl
+Easy
+We are going to do the `Transform` step of an Extract-Transform-Load.
+
+Icon for exercise called Hamming
+Hamming
+Easy
+Calculate the Hamming difference between two DNA strands.
+
+Icon for exercise called Nth Prime
+Nth Prime
+Easy
+Given a number n, determine what the nth prime is.
+
+Icon for exercise called Nucleotide Count
+Nucleotide Count
+Easy
+Given a DNA string, compute how many times each nucleotide occurs in the string.
+
+Icon for exercise called Pangram
+Pangram
+Easy
+Determine if a sentence is a pangram.
+
+Icon for exercise called Pig Latin
+Pig Latin
+Easy
+Implement a program that translates from English to Pig Latin
+
+Icon for exercise called Protein Translation
+Protein Translation
+Easy
+Translate RNA sequences into proteins.
+
+Icon for exercise called Raindrops
+Raindrops
+Easy
+Convert a number to a string, the content of which depends on the number's factors.
+
+Icon for exercise called Rna Transcription
+Rna Transcription
+Easy
+Given a DNA strand, return its RNA Complement Transcription.
+
+Icon for exercise called Robot Name
+Robot Name
+Easy
+Manage robot factory settings.
+
+Icon for exercise called Roman Numerals
+Roman Numerals
+Easy
+Write a function to convert from normal numbers to Roman Numerals.
+
+Icon for exercise called Rotational Cipher
+Rotational Cipher
+Easy
+Create an implementation of the rotational cipher, also sometimes called the Caesar cipher.
+
+Icon for exercise called Run Length Encoding
+Run Length Encoding
+Easy
+Implement run-length encoding and decoding.
+
+Icon for exercise called Scrabble Score
+Scrabble Score
+Easy
+Given a word, compute the Scrabble score for that word.
+
+Icon for exercise called Secret Handshake
+Secret Handshake
+Easy
+Given a decimal number, convert it to the appropriate sequence of events for a secret handshake.
+
+Icon for exercise called Series
+Series
+Easy
+Given a string of digits, output all the contiguous substrings of length `n` in that string.
+
+Icon for exercise called Space Age
+Space Age
+Easy
+Given an age in seconds, calculate how old someone is in terms of a given planet's solar years.
+
+Icon for exercise called Strain
+Strain
+Easy
+Implement the `keep` and `discard` operation on collections. Given a collection and a predicate on the collection's elements, `keep` returns a new collection containing those elements where the predicate is true, while `discard` returns a new collection containing those elements where the predicate is false.
+
+Icon for exercise called Sublist
+Sublist
+Easy
+Write a function to determine if a list is a sublist of another list.
+
+Icon for exercise called Sum Of Multiples
+Sum Of Multiples
+Easy
+Given a number, find the sum of all the multiples of particular numbers up to but not including that number.
+
+Icon for exercise called Triangle
+Triangle
+Easy
+Determine if a triangle is equilateral, isosceles, or scalene.
+
+Icon for exercise called Word Count
+Word Count
+Easy
+Given a phrase, count the occurrences of each word in that phrase.
+
+Icon for exercise called Atbash Cipher
+Atbash Cipher
+Easy
+Create an implementation of the atbash cipher, an ancient encryption system created in the Middle East.
+
+Icon for exercise called Beer Song
+Beer Song
+Easy
+Produce the lyrics to that beloved classic, that field-trip favorite: 99 Bottles of Beer on the Wall.
+
+Icon for exercise called Binary
+Binary
+Easy
+Convert a binary number, represented as a string (e.g. '101010'), to its decimal equivalent using first principles
+
+Icon for exercise called Binary Search
+Binary Search
+Easy
+Implement a binary search algorithm.
+
+Icon for exercise called Binary Search Tree
+Binary Search Tree
+Easy
+Insert and search for numbers in a binary tree.
+
+Icon for exercise called Change
+Change
+Easy
+Correctly determine change to be given using the least number of coins
+
+Icon for exercise called Flatten Array
+Flatten Array
+Easy
+Take a nested list and return a single list with all values except nil/null
+
+Icon for exercise called Gigasecond
+Gigasecond
+Easy
+Given a moment, determine the moment that would be after a gigasecond has passed.
+
+Icon for exercise called Grade School
+Grade School
+Easy
+Given students' names along with the grade that they are in, create a roster for the school
+
+Icon for exercise called Grains
+Grains
+Easy
+Calculate the number of grains of wheat on a chessboard given that the number on each square doubles.
+
+Icon for exercise called Hexadecimal
+Hexadecimal
+Easy
+Convert a hexadecimal number, represented as a string (e.g. "10af8c"), to its decimal equivalent using first principles (i.e. no, you may not use built-in or external libraries to accomplish the conversion).
+
+Icon for exercise called Isbn Verifier
+Isbn Verifier
+Easy
+Check if a given string is a valid ISBN-10 number.
+
+Icon for exercise called Isogram
+Isogram
+Easy
+Determine if a word or phrase is an isogram.
+
+Icon for exercise called Kindergarten Garden
+Kindergarten Garden
+Easy
+Given a diagram, determine which plants each child in the kindergarten class is responsible for.
+
+Icon for exercise called Leap
+Leap
+Easy
+Given a year, report if it is a leap year.
+
+Icon for exercise called Pascals Triangle
+Pascals Triangle
+Easy
+Compute Pascal's triangle up to a given number of rows.
+
+Icon for exercise called Perfect Numbers
+Perfect Numbers
+Easy
+Determine if a number is perfect, abundant, or deficient based on Nicomachus' (60 - 120 CE) classification scheme for positive integers.
+
+Icon for exercise called Phone Number
+Phone Number
+Easy
+Clean up user-entered phone numbers so that they can be sent SMS messages.
+
+Icon for exercise called Prime Factors
+Prime Factors
+Easy
+Compute the prime factors of a given natural number.
+
+Icon for exercise called Proverb
+Proverb
+Easy
+For want of a horseshoe nail, a kingdom was lost, or so the saying goes. Output the full text of this proverbial rhyme.
+
+Icon for exercise called Say
+Say
+Easy
+Given a number from 0 to 999,999,999,999, spell out that number in English.
+
+Icon for exercise called Trinary
+Trinary
+Easy
+Convert a trinary number, represented as a string (e.g. '102012'), to its decimal equivalent using first principles.
+
+Icon for exercise called Allergies
+Allergies
+Medium
+Given a person's allergy score, determine whether or not they're allergic to a given item, and their full list of allergies.
+
+Icon for exercise called Crypto Square
+Crypto Square
+Medium
+Implement the classic method for composing secret messages called a square code.
+
+Icon for exercise called Difference Of Squares
+Difference Of Squares
+Medium
+Find the difference between the square of the sum and the sum of the squares of the first N natural numbers.
+
+Icon for exercise called Dominoes
+Dominoes
+Medium
+Make a chain of dominoes.
+
+Icon for exercise called Largest Series Product
+Largest Series Product
+Medium
+Given a string of digits, calculate the largest product for a contiguous substring of digits of length n.
+
+Icon for exercise called Meetup
+Meetup
+Medium
+Calculate the date of meetups.
+
+Icon for exercise called Octal
+Octal
+Medium
+Convert a octal number, represented as a string (e.g. '1735263'), to its decimal equivalent using first principles (i.e. no, you may not use built-in or external libraries to accomplish the conversion).
+
+Icon for exercise called Spiral Matrix
+Spiral Matrix
+Medium
+Given the size, return a square matrix of numbers in spiral order.
+
+Icon for exercise called Clock
+Clock
+Medium
+Implement a clock that handles times without dates.
+
+Icon for exercise called Diamond
+Diamond
+Medium
+Given a letter, print a diamond starting with 'A' with the supplied letter at the widest point.
+
+Icon for exercise called Luhn
+Luhn
+Medium
+Given a number determine whether or not it is valid per the Luhn formula.
+
+Icon for exercise called Sieve
+Sieve
+Medium
+Use the Sieve of Eratosthenes to find all the primes from 2 up to a given number.
+
+Icon for exercise called Robot Simulator
+Robot Simulator
+Medium
+Write a robot simulator.
+
+Icon for exercise called Wordy
+Wordy
+Medium
+Parse and evaluate simple math word problems returning the answer as an integer.
+
+Icon for exercise called Bank Account
+Bank Account
+Medium
+Simulate a bank account supporting opening/closing, withdraws, and deposits of money. Watch out for concurrent transactions!
+
+Icon for exercise called Matching Brackets
+Matching Brackets
+Medium
+Make sure the brackets and braces all match.
+
+Icon for exercise called Minesweeper
+Minesweeper
+Medium
+Add the numbers to a minesweeper board
+
+Icon for exercise called Poker
+Poker
+Medium
+Pick the best hand(s) from a list of poker hands.
+
+Icon for exercise called Queen Attack
+Queen Attack
+Medium
+Given the position of two queens on a chess board, indicate whether or not they are positioned so that they can attack each other.
+
+Icon for exercise called Go Counting
+Go Counting
+Hard
+Count the scored points on a Go board.
+
+Icon for exercise called Pov
+Pov
+Hard
+Reparent a graph on a selected node
